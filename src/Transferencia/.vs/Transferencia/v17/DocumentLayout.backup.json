@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|c:\\users\\bruno\\desktop\\api-transferencia\\src\\transferencia\\services\\transferenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|solutionrelative:services\\transferenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|c:\\users\\bruno\\desktop\\api-transferencia\\src\\transferencia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|c:\\users\\bruno\\desktop\\api-transferencia\\src\\transferencia\\controllers\\transferenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|solutionrelative:controllers\\transferenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|c:\\users\\bruno\\desktop\\api-transferencia\\src\\transferencia\\dtos\\request\\adicionarmovimentorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|solutionrelative:dtos\\request\\adicionarmovimentorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|c:\\users\\bruno\\desktop\\api-transferencia\\src\\transferencia\\data\\repository\\transferenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|solutionrelative:data\\repository\\transferenciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|c:\\users\\bruno\\desktop\\api-transferencia\\src\\transferencia\\entities\\transferenciaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|solutionrelative:entities\\transferenciaentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|c:\\users\\bruno\\desktop\\api-transferencia\\src\\transferencia\\dtos\\request\\transferirrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|solutionrelative:dtos\\request\\transferirrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|c:\\users\\bruno\\desktop\\api-transferencia\\src\\transferencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|c:\\users\\bruno\\desktop\\api-transferencia\\src\\transferencia\\settings\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|solutionrelative:settings\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|c:\\users\\bruno\\desktop\\api-transferencia\\src\\transferencia\\data\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|solutionrelative:data\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|c:\\users\\bruno\\desktop\\api-transferencia\\src\\transferencia\\dtos\\response\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|solutionrelative:dtos\\response\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|c:\\users\\bruno\\desktop\\api-transferencia\\src\\transferencia\\settings\\tokenjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|solutionrelative:settings\\tokenjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|c:\\users\\bruno\\desktop\\api-transferencia\\src\\transferencia\\transferencia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69C0FA20-D335-4568-9A6A-3554E6BE0661}|Transferencia.csproj|solutionrelative:transferencia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdicionarMovimentoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Dtos\\Request\\AdicionarMovimentoRequest.cs",
+              "RelativeDocumentMoniker": "Dtos\\Request\\AdicionarMovimentoRequest.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Dtos\\Request\\AdicionarMovimentoRequest.cs",
+              "RelativeToolTip": "Dtos\\Request\\AdicionarMovimentoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:14:53.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Api.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Settings\\Api.cs",
+              "RelativeDocumentMoniker": "Settings\\Api.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Settings\\Api.cs",
+              "RelativeToolTip": "Settings\\Api.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:20:02.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Dtos\\Response\\Result.cs",
+              "RelativeDocumentMoniker": "Dtos\\Response\\Result.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Dtos\\Response\\Result.cs",
+              "RelativeToolTip": "Dtos\\Response\\Result.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T21:46:07.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransferirRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Dtos\\Request\\TransferirRequest.cs",
+              "RelativeDocumentMoniker": "Dtos\\Request\\TransferirRequest.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Dtos\\Request\\TransferirRequest.cs",
+              "RelativeToolTip": "Dtos\\Request\\TransferirRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T19:58:05.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T19:35:45.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TokenJWT.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Settings\\TokenJWT.cs",
+              "RelativeDocumentMoniker": "Settings\\TokenJWT.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Settings\\TokenJWT.cs",
+              "RelativeToolTip": "Settings\\TokenJWT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T19:35:05.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Transferencia",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Transferencia.csproj",
+              "RelativeDocumentMoniker": "Transferencia.csproj",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Transferencia.csproj",
+              "RelativeToolTip": "Transferencia.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-12T19:32:41.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransferenciaService.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Services\\TransferenciaService.cs",
+              "RelativeDocumentMoniker": "Services\\TransferenciaService.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Services\\TransferenciaService.cs",
+              "RelativeToolTip": "Services\\TransferenciaService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T19:19:01.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransferenciaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Data\\Repository\\TransferenciaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\TransferenciaRepository.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Data\\Repository\\TransferenciaRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\TransferenciaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:52:08.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransferenciaEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Entities\\TransferenciaEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\TransferenciaEntity.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Entities\\TransferenciaEntity.cs",
+              "RelativeToolTip": "Entities\\TransferenciaEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:51:16.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Data\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\Context\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Data\\Context\\DataContext.cs",
+              "RelativeToolTip": "Data\\Context\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:41:16.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransferenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Controllers\\TransferenciaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransferenciaController.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Controllers\\TransferenciaController.cs",
+              "RelativeToolTip": "Controllers\\TransferenciaController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:40:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bruno\\Desktop\\api-transferencia\\src\\Transferencia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAUwF8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T18:40:11.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

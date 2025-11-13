@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "Transferencia.Controllers.TransferenciaController",
+    "Method": "TransferirAsync",
+    "RelativePath": "api/v1/transferencia/transferir",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Transferencia.Dtos.Request.TransferirRequest",
+        "IsRequired": false
+      },
+      {
+        "Name": "Login-Token",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

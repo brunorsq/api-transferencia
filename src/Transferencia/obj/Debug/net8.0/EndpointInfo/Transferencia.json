@@ -1,0 +1,82 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Transferencia API",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/v1/transferencia/transferir": {
+      "post": {
+        "tags": [
+          "Transferencia"
+        ],
+        "parameters": [
+          {
+            "name": "Login-Token",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransferirRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransferirRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransferirRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "TransferirRequest": {
+        "type": "object",
+        "properties": {
+          "numeroConta": {
+            "type": "integer",
+            "format": "int64",
+            "nullable": true
+          },
+          "valor": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "http",
+        "description": "Digite '{seu token}' para autenticação",
+        "scheme": "Bearer",
+        "bearerFormat": "JWT"
+      }
+    }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
+}
