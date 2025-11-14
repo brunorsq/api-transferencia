@@ -12,3 +12,9 @@ services:
     environment:
       - DOTNET_ENVIRONMENT=Development
       - ConnectionStrings__DefaultConnection=Data Source=/app/database/contacorrente.db
+    networks:
+      - minha-rede
+
+networks:
+  minha-rede:
+    name: minha-rede
